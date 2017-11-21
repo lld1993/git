@@ -1,2 +1,99 @@
 删除远程分支
-git push --delete 分支名
+git push origin --delete 分支名
+git push origin :远程分支名
+
+
+
+图形化查看log
+git log --graph
+
+
+
+合并远程分支 
+git merge origin/master
+
+
+
+返回上一个commit
+git reset --hard HEAD~
+
+
+
+查看本地分支与远程分支的差别
+git diff master origin/master
+
+
+
+查看本地的配置
+git config --list --local
+
+
+删除本地分支
+git branch -d  分支名
+
+
+clone命令
+git clone git地址
+
+
+
+fetch命令
+git fetch git地址
+
+
+
+查看远程git地址
+git remote -v
+
+
+
+给一个远程仓库起别名
+git remote add 别名 git仓库地址
+
+
+设置本地分支跟踪远端分支
+git branch --set-upstream-to=origin/远程分支名 本地分支名
+git branch --track 本地分支名 origin/远程分支名
+
+
+在远程新建分支，并让本地同名分支去跟踪远程分支
+git push -u origin 远程分支名
+
+
+
+推送本地分支到远程分支
+git push origin 分支名
+
+
+创建分支
+git branch 分支名
+
+
+切换分支
+git checkout 分支名
+
+
+查看本地分支
+git branch
+
+
+查看远程分支
+git branch -a
+
+
+修改远程仓库别名
+git remote rename 旧名字 新名字
+
+
+
+暂存当前的工作
+git statsh
+
+
+
+释放当前的工作
+git stash pop
+
+
+重写历史记录（目前所知）
+git rebase

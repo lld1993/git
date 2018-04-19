@@ -86,7 +86,7 @@ git remote rename 旧名字 新名字
 
 
 添加远程仓库
-git remote add mainRepository(别名) http://git.jd.com/data-jcloud/stream-api.git（地址）
+git remote add mainRepository(别名) some.git（地址）
 
 暂存当前的工作
 git statsh

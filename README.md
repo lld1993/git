@@ -1,1 +1,2 @@
-# git 常用命令
+# git 学习资料
+https://git-scm.com/book/zh/v2

@@ -1,0 +1,62 @@
+kafka
+	https://blog.csdn.net/u013729825/article/details/52093765
+	https://blog.csdn.net/cjf_wei/article/details/77920435
+	https://blog.csdn.net/zoubf/article/details/51213550
+	https://blog.csdn.net/hwssg/article/details/48623745
+	https://www.cnblogs.com/z-sm/p/5691760.html
+	https://www.cnblogs.com/luotianshuai/p/5206662.html
+	https://www.cnblogs.com/liuwei6/p/6893036.html
+php
+	http://document.thinkphp.cn/manual_3_2.html#connect_db
+	http://www.cnblogs.com/zeroone/archive/2010/05/05/1727659.html
+	https://www.w3cschool.cn/
+	https://docs.golaravel.com/docs/5.0/routing/
+	http://makaidong.com/EncryptingLife/5135_9094799.html
+	https://docs.golaravel.com/docs/5.0/releases/
+Ç°¶Ë
+	http://www.cnblogs.com/onlys/articles/jQuery.html
+	https://blog.csdn.net/sun5769675/article/details/50326373
+	http://www.cnblogs.com/wdlhao/p/6694083.html
+	http://www.runoob.com/
+java
+	https://www.linuxidc.com/Linux/2016-09/134941.htm
+	https://linesh.gitbooks.io/spring-mvc-documentation-linesh-translation/content/
+	http://baomidou.oschina.io/mybatis-plus-doc/#/quick-start
+	http://blog.sina.com.cn/s/blog_4aac0cb60100bfyg.html
+	https://blog.csdn.net/jiafu1115/article/details/43308723
+	http://www.cnblogs.com/joahyau/p/6736637.html
+	http://www.cnblogs.com/caowei/p/2013-12-11_request-response.html
+	http://idea.lanyus.com/
+	https://github.com/dyc87112/SpringBoot-Learning
+	https://www.cnblogs.com/stonefeng/p/5967451.html
+	https://www.cnblogs.com/bovenson/p/6275762.html?utm_source=itdadao&utm_medium=referral
+	https://github.com/aalansehaiyang/technology-talk
+	http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
+linux
+	http://www.cnblogs.com/Totems/p/3198287.html
+	http://linux.it.net.cn/CentOS/course/2016/1006/24647.html
+	https://segmentfault.com/a/1190000002739020
+	https://www.linuxidc.com/Linux/2015-04/115841.htm
+	https://blog.csdn.net/c1481118216/article/details/53010963
+git
+	https://git-scm.com/book/zh/v2/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%9A%84%E6%96%B0%E5%BB%BA%E4%B8%8E%E5%90%88%E5%B9%B6
+	https://mp.weixin.qq.com/s?__biz=MzAwNjMxMTA5Mw==&mid=2651340459&idx=1&sn=11b09e34f398f1a816c46b12e7da1c4f&chksm=80f3c371b7844a677b3cf7266c456cf95405efc6396cdbec9c11645e251d8086854738e8f1e1&mpshare=1&scene=1&srcid=0710sfiSFtjQvem1uQvWg1MQ#rd
+hadoop hbase
+	http://my.jikexueyuan.com/0zjPUUPaW/record/
+	http://www.cnblogs.com/dennisit/p/4132269.html
+	https://www.cnblogs.com/yuyijq/p/3424473.html
+	https://www.cnblogs.com/codeOfLife/p/5375120.html
+	http://ke.jikexueyuan.com/zhiye/bigdata/
+	https://www.cnblogs.com/zhenjing/p/hbase_example.html
+	http://blog.chinaunix.net/uid-22312037-id-4095491.html
+	https://blog.csdn.net/javajxz008/article/details/51854705
+	https://blog.csdn.net/system1024/article/details/52956475
+	https://blog.csdn.net/sdksdk0/article/details/53966430
+	https://www.jianshu.com/p/ed80664141a5
+	https://www.jianshu.com/p/304c2a53e182
+	https://www.cnblogs.com/hunttown/p/5799850.html
+	https://blog.csdn.net/u011118321/article/details/58672243
+	http://lxw1234.com/
+	https://www.cnblogs.com/shysky77/p/6971967.html
+	https://blog.csdn.net/liam08/article/details/79663018
+	https://blog.csdn.net/strongyoung88/article/details/53743937

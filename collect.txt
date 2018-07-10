@@ -13,7 +13,7 @@ php
 	https://docs.golaravel.com/docs/5.0/routing/
 	http://makaidong.com/EncryptingLife/5135_9094799.html
 	https://docs.golaravel.com/docs/5.0/releases/
-Ç°¶Ë
+å­¦ä¹ 
 	http://www.cnblogs.com/onlys/articles/jQuery.html
 	https://blog.csdn.net/sun5769675/article/details/50326373
 	http://www.cnblogs.com/wdlhao/p/6694083.html
